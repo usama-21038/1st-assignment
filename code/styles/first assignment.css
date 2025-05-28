@@ -318,6 +318,9 @@ height: 40px;
     .share:hover{
         background-color: #b1c569;
     }
+    .share-2:hover{
+        background-color: #006A50;
+    }
 
 
     /* footer style */
