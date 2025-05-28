@@ -315,6 +315,9 @@ height: 40px;
     .email-form button:hover {
       background-color: #b1c569;
     }
+    .share:hover{
+        background-color: #b1c569;
+    }
 
 
     /* footer style */
